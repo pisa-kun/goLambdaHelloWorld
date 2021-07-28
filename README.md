@@ -44,3 +44,8 @@ REPORT RequestId: b1146149-76f2-4762-ae6f-ecda1431072c	Duration: 0.85 ms	Billed 
 
 [参考](https://www.cview.co.jp/cvcblog/2021.01.15.Pu1pTwLHNUXVe6dnNHrHc)
 
+---
+
+#### おまけ
+git push急にできなくなったのでメモ
+https://qiita.com/seal_qiita/items/1c5e8621cd22bcd84186
